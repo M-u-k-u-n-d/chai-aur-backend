@@ -1,0 +1,17 @@
+{
+  "name": "chai-aur-backend-episode7",
+  "version": "1.0.0",
+  "description": "starting from episode7 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mongoDB",
+    "mongoose"
+  ],
+  "author": "Mukund Tiwari",
+  "license": "ISC"
+}
